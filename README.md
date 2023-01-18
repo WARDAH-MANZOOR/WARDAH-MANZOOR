@@ -7,5 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WARDAH-MANZOOR&theme=dark&hide_border=false)<br/>
 
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=WARDAH-MANZOOR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
