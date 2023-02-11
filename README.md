@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/WARDAH-MANZOOR/WARDAH-MANZOOR/blob/main/Frame%2066.png)
 <h1 align="center">Hi 👋, I'm Wardah Manzoor</h1>
 <h3 align="center">A passionate Machine Learning Developer from Karachi, Pakistan</h3>
 
